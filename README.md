@@ -25,7 +25,7 @@
 
 ## 2.1 Initial Investigation
 
-I did a search within MDE DeviceFileEvents for any activities with zip files and found a lot of regular activity of archiving stuff and moving to a ‘backup’ folder.
+I queried DeviceFileEvents in Microsoft Defender for Endpoint and observed frequent creation of .zip files within a folder named "backup".
 
 <img src="https://i.imgur.com/6VI6N4l.png">
 
